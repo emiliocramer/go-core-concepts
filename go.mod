@@ -1,3 +1,3 @@
-module github.com/emiliocramer/core-concepts-go
+module github.com/emiliocramer/go-core-concepts
 
 go 1.18

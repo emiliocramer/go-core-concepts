@@ -1,1 +1,1 @@
-# core-concepts-go
+# go-core-concepts
